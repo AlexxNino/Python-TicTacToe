@@ -1,6 +1,6 @@
 # Python-TicTacToe
 
-UNFINISHED
-will come back to it late
-THINGS TO ADD
-_________________
+UNFINISHED <br />
+will come back to it late <br />
+THINGS TO ADD <br />
+_________________ <br />
